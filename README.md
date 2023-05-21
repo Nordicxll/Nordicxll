@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Nordicxll
+- 👋 Hi, I’m Amit Kumar Pal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c language
+- I  have completed c,c++
+- 🌱 I’m currently learning  DSA , Web Devpolment....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
